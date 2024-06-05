@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheussalencarr
-- 👀 I’m interested in Cloud and Devops
-- 🌱 I’m currently learning Terraform and Kubernetes
-- 💞️ I’m looking to collaborate on DevOps Projects
+- 👀 I’m interested in Cloud, Devops and Backend
+- 🌱 I’m currently learning Terraform, Kubernetes and Python
+- 💞️ I’m looking to collaborate on DevOps Projects and Backend Projects
 - 📫 How to reach me: matheus.dev.br@gmail.com
 
 <!---
